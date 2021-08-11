@@ -1,6 +1,6 @@
 ## renew Dictionary Electron app
 
-<img src="" width="400" height="400">
+<img src="https://github.com/Than-coder/renew-dictionary-/blob/main/dict.png" width="400" height="400">
 
 
 # new futuer
