@@ -27,7 +27,7 @@ function searchWord(text){
     dict.searchLike({
         search:{
         where:'word',
-        like:`%${text}%`
+        like:`${text}%`
         }
     
     })
